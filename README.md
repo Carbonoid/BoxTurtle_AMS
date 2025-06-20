@@ -1,1 +1,1 @@
-# TurtleNeck Pro 3 - Smart Filament Buffer for BoxTurtle AMS
+# This repository contains derived or customized parts for the BoxTurtle AMS by AmoredTurtle
