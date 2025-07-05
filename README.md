@@ -1,4 +1,4 @@
-# This repository contains derived or customized parts for the BoxTurtle AMS by AmoredTurtle
+# This repository contains parts for the BoxTurtle AMS by AmoredTurtle
 
 ## Content
 
